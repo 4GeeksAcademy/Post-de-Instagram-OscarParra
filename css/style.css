@@ -1,6 +1,8 @@
 body{
   background-color: black;
+
 }
+
 
 .post{
   background-color: white;
@@ -22,46 +24,52 @@ body{
 
 }
 
+
 .perfil{
 margin: 5px;
   display:flex;
 
 }
 
+
  .foto-perfil{
   margin-left: 5px;
   border-radius: 50%; 
-  
 
 }
+
+
 .foto-perfil img{
   width: 40px;
   height: 40px;
   border-radius: 50%;
 
 } 
+
+
 .nombre-perfil{
   display: flex;
   align-items: center;
   margin: 5px;
+
 }
+
 
 .post-menu{
   margin-right: 15px;
   display: flex;
   align-items: center;
   font-size: 30px;
-  
-  
-  
-  
+   
 }
 
-.post-img img{
+
+.post-img{
   width: 500px;
   height: 375px;
   
 }
+
 
 .bottons{
   padding: 0px 10px 10px 10px;
@@ -72,16 +80,23 @@ margin: 5px;
 
 }
 
+
 p{
   padding: 0px 10px 10px 10px;
   text-align: justify;
   margin: 5px;
+
 }
+
 
 .likes{
   
   margin-bottom: 10px;
+
 }
+
+
+/* =============================================== */
 
 .roboto-thin {
   font-family: "Roboto", sans-serif;
